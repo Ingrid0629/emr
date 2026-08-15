@@ -1,0 +1,1081 @@
+
+
+1 of 1
+(no subject)
+Inbox
+
+liao Ingrid <ingridliao128@gmail.com>
+Attachments
+11:51 AM (0 minutes ago)
+to me
+
+ One attachment
+  •  Scanned by Gmail
+Compose:
+New Message
+liao Ingrid
+Subject
+​image.png​
+​image.png
+​image.png​image.png​
+​
+​
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#dff3ff">
+  <meta name="color-scheme" content="light">
+  <title>惠的多語言醫療護照</title>
+  <style>
+    :root {
+      --ink: #102a43;
+      --muted: #58718c;
+      --blue-950: #12335c;
+      --blue-800: #195a93;
+      --blue-650: #2680bd;
+      --blue-500: #55b5e8;
+      --blue-300: #9edcf8;
+      --blue-200: #c9ebfb;
+      --blue-100: #e7f7ff;
+      --blue-50: #f5fbff;
+      --silver: #dce7f0;
+      --white: #ffffff;
+      --danger: #bc3f4b;
+      --danger-soft: #fff0f2;
+      --success: #147a66;
+      --shadow: 0 18px 50px rgba(31, 104, 153, .12);
+      --shadow-soft: 0 8px 24px rgba(31, 104, 153, .09);
+      --radius-xl: 30px;
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --font: Inter, ui-rounded, "SF Pro Rounded", "Noto Sans TC", "Noto Sans KR", "Noto Sans JP", "Segoe UI", system-ui, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      min-width: 320px;
+      min-height: 100vh;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 8% 5%, rgba(120, 205, 245, .24), transparent 25rem),
+        radial-gradient(circle at 94% 22%, rgba(160, 221, 249, .20), transparent 28rem),
+        linear-gradient(180deg, #f4fbff 0%, #eaf7ff 42%, #f7fbff 100%);
+      font-family: var(--font);
+      line-height: 1.55;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: .3;
+      background-image: radial-gradient(rgba(47, 132, 187, .16) .6px, transparent .6px);
+      background-size: 18px 18px;
+      mask-image: linear-gradient(to bottom, black, transparent 70%);
+      z-index: -1;
+    }
+    button, select, input { font: inherit; }
+    button, select { -webkit-tap-highlight-color: transparent; }
+    button { color: inherit; }
+    a { color: inherit; }
+    :focus-visible { outline: 3px solid rgba(38, 128, 189, .4); outline-offset: 3px; }
+    .skip-link {
+      position: fixed; left: 16px; top: -60px; z-index: 1000;
+      padding: 11px 16px; border-radius: 12px; background: var(--blue-950); color: white;
+      transition: top .2s ease;
+    }
+    .skip-link:focus { top: 16px; }
+
+    .topbar {
+      position: sticky; top: 0; z-index: 80;
+      border-bottom: 1px solid rgba(105, 174, 215, .28);
+      background: rgba(245, 251, 255, .84);
+      backdrop-filter: blur(18px) saturate(150%);
+    }
+    .topbar-inner {
+      width: min(1440px, calc(100% - 32px)); min-height: 74px; margin: auto;
+      display: flex; align-items: center; justify-content: space-between; gap: 20px;
+    }
+    .brand { display: flex; align-items: center; gap: 12px; min-width: 0; }
+    .brand-mark {
+      width: 42px; height: 42px; flex: 0 0 auto; display: grid; place-items: center;
+      border-radius: 15px; color: white; font-size: 21px; font-weight: 800;
+      background: linear-gradient(145deg, var(--blue-500), var(--blue-800));
+      box-shadow: 0 8px 22px rgba(38, 128, 189, .27);
+    }
+    .brand-copy { min-width: 0; }
+    .brand-title { margin: 0; font-size: 15px; font-weight: 800; letter-spacing: .01em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .brand-subtitle { margin: 1px 0 0; color: var(--muted); font-size: 11px; font-weight: 650; letter-spacing: .08em; text-transform: uppercase; }
+    .top-actions { display: flex; align-items: center; justify-content: flex-end; gap: 8px; }
+    .language-wrap { position: relative; }
+    .language-select {
+      min-height: 42px; padding: 0 38px 0 14px; border: 1px solid #c9dfed; border-radius: 13px;
+      appearance: none; color: var(--blue-950); background: white;
+      font-size: 13px; font-weight: 750; cursor: pointer;
+    }
+    .language-wrap::after { content: "⌄"; position: absolute; right: 14px; top: 7px; pointer-events: none; color: var(--blue-650); }
+    .icon-button, .primary-button, .soft-button, .danger-button {
+      border: 0; border-radius: 13px; min-height: 42px; cursor: pointer; font-weight: 750;
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      transition: transform .18s ease, box-shadow .18s ease, background .18s ease;
+    }
+    .icon-button:hover, .primary-button:hover, .soft-button:hover, .danger-button:hover { transform: translateY(-1px); }
+    .icon-button { width: 42px; padding: 0; background: white; border: 1px solid #c9dfed; color: var(--blue-800); font-size: 17px; }
+    .primary-button { padding: 0 16px; background: var(--blue-800); color: white; box-shadow: 0 8px 20px rgba(25, 90, 147, .2); }
+    .soft-button { padding: 0 14px; background: var(--blue-100); color: var(--blue-950); border: 1px solid var(--blue-200); }
+    .danger-button { padding: 0 14px; color: var(--danger); background: var(--danger-soft); border: 1px solid #f1cbd0; }
+    .button-label { font-size: 13px; }
+
+    .page-shell {
+      width: min(1440px, calc(100% - 32px)); margin: 24px auto 70px;
+      display: grid; grid-template-columns: 278px minmax(0, 1fr); gap: 24px; align-items: start;
+    }
+    .sidebar { position: sticky; top: 98px; display: grid; gap: 14px; }
+    .sidebar-card {
+      border: 1px solid rgba(142, 196, 228, .46); border-radius: var(--radius-lg);
+      background: rgba(255, 255, 255, .88); box-shadow: var(--shadow-soft); overflow: hidden;
+    }
+    .profile-card { padding: 20px; }
+    .profile-head { display: flex; align-items: center; gap: 13px; }
+    .avatar {
+      width: 52px; height: 52px; border-radius: 18px; display: grid; place-items: center;
+      color: white; font-size: 22px; font-weight: 850; background: linear-gradient(150deg, #7fcdf1, #2878b3);
+      box-shadow: 0 10px 28px rgba(40, 120, 179, .25);
+    }
+    .profile-name { margin: 0; font-size: 17px; font-weight: 850; }
+    .profile-kicker { margin: 2px 0 0; color: var(--muted); font-size: 12px; }
+    .status-line { margin-top: 18px; display: flex; justify-content: space-between; gap: 12px; color: var(--muted); font-size: 12px; }
+    .status-pill { display: inline-flex; align-items: center; gap: 6px; color: var(--success); font-weight: 750; }
+    .status-dot { width: 8px; height: 8px; border-radius: 50%; background: #2ab699; box-shadow: 0 0 0 4px rgba(42, 182, 153, .11); }
+    .progress-track { height: 7px; margin-top: 9px; border-radius: 999px; background: #e5f1f7; overflow: hidden; }
+    .progress-fill { width: 0; height: 100%; border-radius: inherit; background: linear-gradient(90deg, var(--blue-500), var(--blue-800)); transition: width .35s ease; }
+    .progress-copy { display: flex; justify-content: space-between; margin-top: 7px; color: var(--muted); font-size: 11px; }
+    .sidebar-heading { margin: 0; padding: 16px 18px 7px; color: var(--muted); font-size: 10px; font-weight: 850; letter-spacing: .14em; text-transform: uppercase; }
+    .section-nav { padding: 4px 8px 10px; display: grid; gap: 2px; }
+    .nav-link {
+      padding: 9px 10px; border-radius: 11px; text-decoration: none; color: #365675;
+      display: flex; align-items: center; gap: 9px; font-size: 12px; font-weight: 680;
+    }
+    .nav-link:hover, .nav-link.active { background: var(--blue-100); color: var(--blue-950); }
+    .nav-index { width: 22px; color: var(--blue-650); font-variant-numeric: tabular-nums; font-size: 10px; font-weight: 850; }
+    .sidebar-actions { padding: 10px; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .sidebar-actions button { min-height: 39px; padding: 0 8px; font-size: 11px; }
+    .sidebar-actions .wide { grid-column: 1 / -1; }
+    .privacy-note { padding: 16px 18px 18px; background: linear-gradient(145deg, #eaf8ff, #f7fcff); }
+    .privacy-note strong { display: block; margin-bottom: 5px; color: var(--blue-950); font-size: 12px; }
+    .privacy-note p { margin: 0; color: var(--muted); font-size: 11px; line-height: 1.6; }
+
+    main { min-width: 0; display: grid; gap: 20px; }
+    .hero {
+      position: relative; overflow: hidden; min-height: 460px; padding: clamp(24px, 4vw, 46px);
+      border: 1px solid rgba(130, 196, 231, .5); border-radius: var(--radius-xl);
+      color: var(--blue-950); background:
+        linear-gradient(125deg, rgba(255,255,255,.96), rgba(219,243,255,.92)),
+        var(--blue-100);
+      box-shadow: var(--shadow);
+    }
+    .hero::before, .hero::after {
+      content: ""; position: absolute; border-radius: 50%; pointer-events: none;
+    }
+    .hero::before { width: 340px; height: 340px; right: -120px; top: -130px; background: radial-gradient(circle, rgba(67, 167, 220, .27), rgba(67, 167, 220, 0) 68%); }
+    .hero::after { width: 240px; height: 240px; right: 11%; bottom: -165px; border: 42px solid rgba(255, 255, 255, .54); }
+    .spark { position: absolute; color: rgba(35, 126, 185, .32); font-size: 24px; z-index: 0; }
+    .spark.one { right: 8%; top: 24%; }
+    .spark.two { right: 24%; top: 12%; font-size: 13px; }
+    .hero-content { position: relative; z-index: 1; }
+    .eyebrow { margin: 0 0 12px; display: flex; align-items: center; gap: 9px; color: var(--blue-800); font-size: 11px; font-weight: 850; letter-spacing: .15em; text-transform: uppercase; }
+    .eyebrow::before { content: ""; width: 26px; height: 2px; border-radius: 2px; background: var(--blue-500); }
+    .hero-title { margin: 0; font-size: clamp(34px, 5vw, 66px); line-height: 1.04; letter-spacing: -.04em; font-weight: 880; }
+    .hero-title .field-value { display: inline; min-width: 0; padding: 0; border: 0; background: transparent; color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; }
+    .hero-subtitle { max-width: 680px; margin: 15px 0 0; color: #456885; font-size: clamp(14px, 1.5vw, 17px); line-height: 1.75; }
+    .hero-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+    .meta-chip { padding: 7px 10px; border-radius: 999px; color: #356889; background: rgba(255,255,255,.75); border: 1px solid rgba(119,184,221,.5); font-size: 10px; font-weight: 780; }
+    .emergency-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 11px; margin-top: 30px; }
+    .emergency-item {
+      min-height: 124px; padding: 16px; border: 1px solid rgba(122, 187, 224, .42); border-radius: 19px;
+      background: rgba(255, 255, 255, .78); backdrop-filter: blur(8px);
+    }
+    .emergency-item.alert { border-color: rgba(188, 63, 75, .22); background: rgba(255, 248, 249, .86); }
+    .field-label { display: block; margin-bottom: 7px; color: var(--muted); font-size: 10px; font-weight: 830; letter-spacing: .07em; text-transform: uppercase; }
+    .field-value {
+      min-width: 30px; min-height: 28px; padding: 4px 0; color: var(--ink); font-size: 13px; font-weight: 680;
+      white-space: pre-wrap; overflow-wrap: anywhere; border-radius: 8px;
+    }
+    .field-value:empty::before { content: attr(data-placeholder); color: #91a5b8; font-weight: 520; }
+    .field-value[contenteditable="true"] { padding: 7px 9px; background: #f7fcff; box-shadow: inset 0 0 0 1.5px #8ecbea; cursor: text; }
+    .field-value[contenteditable="true"]:focus { outline: 3px solid rgba(38, 128, 189, .17); }
+    .emergency-item .field-value { font-size: 14px; }
+    .phrase-strip { margin-top: 12px; padding: 15px 17px; border-radius: 18px; background: var(--blue-950); color: white; }
+    .phrase-strip-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .phrase-strip-head strong { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+    .phrase-grid { margin-top: 11px; display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 8px 18px; }
+    .phrase { display: flex; align-items: flex-start; gap: 8px; color: #e5f6ff; font-size: 12px; }
+    .phrase::before { content: "✦"; color: #7bd2f7; flex: 0 0 auto; }
+
+    .record-section {
+      scroll-margin-top: 94px; border: 1px solid rgba(142, 196, 228, .46); border-radius: var(--radius-xl);
+      background: rgba(255,255,255,.9); box-shadow: var(--shadow-soft); overflow: hidden;
+    }
+    .section-header { padding: 25px 28px 20px; display: flex; align-items: flex-start; gap: 14px; border-bottom: 1px solid #e2eef5; }
+    .section-icon {
+      width: 42px; height: 42px; flex: 0 0 auto; border-radius: 15px; display: grid; place-items: center;
+      color: var(--blue-800); background: linear-gradient(145deg, #dff4ff, #f5fbff); border: 1px solid #c7e7f7; font-size: 18px; font-weight: 850;
+    }
+    .section-number { margin: 0 0 4px; color: var(--blue-650); font-size: 9px; font-weight: 880; letter-spacing: .14em; text-transform: uppercase; }
+    .section-title { margin: 0; font-size: clamp(20px, 2.2vw, 28px); line-height: 1.2; letter-spacing: -.02em; }
+    .section-description { max-width: 760px; margin: 7px 0 0; color: var(--muted); font-size: 12px; line-height: 1.65; }
+    .section-body { padding: 19px; display: grid; gap: 12px; }
+    .data-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 11px; }
+    .data-field {
+      min-height: 98px; padding: 15px 17px; border: 1px solid #dcebf4; border-radius: var(--radius-md); background: #fbfdff;
+    }
+    .data-field.wide { grid-column: 1 / -1; min-height: 112px; }
+    .data-field.compact { min-height: 86px; }
+    .data-field .field-value { min-height: 38px; line-height: 1.6; }
+    .section-tip { padding: 13px 15px; border-radius: 14px; background: #edf9ff; color: #456b85; font-size: 11px; }
+    .section-tip strong { color: var(--blue-800); }
+    .footer-note { padding: 26px 28px; color: #617a90; text-align: center; font-size: 11px; line-height: 1.7; }
+    .footer-note strong { color: var(--blue-950); }
+
+    .save-dock {
+      position: fixed; left: 50%; bottom: max(18px, env(safe-area-inset-bottom)); z-index: 90;
+      transform: translate(-50%, 130%); opacity: 0; pointer-events: none;
+      padding: 8px; border: 1px solid rgba(124, 181, 216, .5); border-radius: 18px;
+      background: rgba(255,255,255,.92); backdrop-filter: blur(18px); box-shadow: 0 18px 45px rgba(24, 79, 122, .24);
+      transition: transform .28s ease, opacity .28s ease;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .editing .save-dock { transform: translate(-50%, 0); opacity: 1; pointer-events: auto; }
+    .edit-hint { padding: 0 10px; color: var(--muted); font-size: 11px; white-space: nowrap; }
+    .editing .record-section { border-color: rgba(81, 168, 217, .6); }
+
+    .toast {
+      position: fixed; right: 20px; bottom: 24px; z-index: 120; max-width: min(360px, calc(100% - 40px));
+      padding: 13px 16px; border-radius: 15px; color: white; background: var(--blue-950); box-shadow: 0 14px 34px rgba(16,42,67,.28);
+      font-size: 12px; font-weight: 680; opacity: 0; transform: translateY(15px); pointer-events: none;
+      transition: opacity .22s ease, transform .22s ease;
+    }
+    .toast.show { opacity: 1; transform: translateY(0); }
+    .private-mode .field-value[data-field] { filter: blur(7px); user-select: none; pointer-events: none; }
+    .private-mode .avatar { filter: blur(7px); }
+    .private-mode .privacy-exempt { filter: none !important; user-select: auto !important; pointer-events: auto !important; }
+    .emergency-mode .sidebar, .emergency-mode .record-section:not(#emergency), .emergency-mode .footer-note { display: none; }
+    .emergency-mode .page-shell { grid-template-columns: minmax(0, 1050px); justify-content: center; }
+    .emergency-mode .hero { min-height: calc(100vh - 125px); }
+
+    @media (max-width: 1020px) {
+      .page-shell { grid-template-columns: 1fr; }
+      .sidebar { position: static; grid-template-columns: 1fr 1fr; }
+      .sidebar-card.nav-card { grid-column: 1 / -1; }
+      .section-nav { display: flex; overflow-x: auto; padding: 8px; scrollbar-width: thin; }
+      .nav-link { flex: 0 0 auto; }
+      .privacy-note { display: none; }
+      .emergency-mode .page-shell { display: block; }
+    }
+    @media (max-width: 720px) {
+      .topbar-inner { width: min(100% - 20px, 1440px); min-height: 66px; }
+      .brand-title { max-width: 150px; }
+      .brand-subtitle { display: none; }
+      .top-actions .button-label { display: none; }
+      .top-actions .primary-button { width: 42px; padding: 0; }
+      .language-select { width: 112px; padding-left: 11px; }
+      .page-shell { width: min(100% - 20px, 1440px); margin-top: 12px; gap: 12px; }
+      .sidebar { grid-template-columns: 1fr; gap: 10px; }
+      .sidebar-card.actions-card { display: none; }
+      .profile-card { padding: 15px; }
+      .hero { min-height: auto; padding: 23px 17px; border-radius: 24px; }
+      .hero-title { font-size: 36px; }
+      .emergency-grid { grid-template-columns: 1fr 1fr; gap: 8px; }
+      .emergency-item { min-height: 110px; padding: 13px; }
+      .phrase-grid { grid-template-columns: 1fr; }
+      .record-section { border-radius: 24px; }
+      .section-header { padding: 20px 17px 16px; }
+      .section-body { padding: 12px; }
+      .data-grid { grid-template-columns: 1fr; }
+      .data-field.wide { grid-column: auto; }
+      .save-dock { width: calc(100% - 20px); justify-content: space-between; }
+      .edit-hint { display: none; }
+    }
+    @media (max-width: 430px) {
+      .brand-copy { display: none; }
+      .emergency-grid { grid-template-columns: 1fr; }
+      .emergency-item { min-height: 96px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
+    }
+    @media print {
+      @page { size: A4; margin: 12mm; }
+      body { background: white; font-size: 10pt; }
+      body::before, .topbar, .sidebar, .save-dock, .toast, .no-print { display: none !important; }
+      .page-shell { width: 100%; margin: 0; display: block; }
+      main { display: block; }
+      .hero, .record-section { margin: 0 0 10mm; border: 1px solid #b8d5e5; box-shadow: none; break-inside: avoid; background: white; }
+      .hero { min-height: 0; padding: 9mm; }
+      .record-section { border-radius: 14px; }
+      .section-header { padding: 6mm; }
+      .section-body { padding: 5mm; }
+      .data-field { min-height: 22mm; }
+      .emergency-mode .record-section:not(#emergency), .emergency-mode .footer-note { display: block; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to medical record</a>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <header class="topbar no-print">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">✚</div>
+        <div class="brand-copy">
+          <p class="brand-title" data-i18n="appName">惠的醫療護照</p>
+          <p class="brand-subtitle" data-i18n="privateLabel">Private · Multilingual · Offline-ready</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <div class="language-wrap">
+          <label class="sr-only" for="languageSelect" hidden data-i18n="language">語言</label>
+          <select class="language-select" id="languageSelect" aria-label="Language">
+            <option value="zh">中文</option>
+            <option value="en">English</option>
+            <option value="ja">日本語</option>
+            <option value="ko">한국어</option>
+            <option value="vi">Tiếng Việt</option>
+          </select>
+        </div>
+        <button class="icon-button" id="privacyButton" type="button" aria-label="Privacy mode" title="Privacy mode">◉</button>
+        <button class="icon-button" id="emergencyButton" type="button" aria-label="Emergency view" title="Emergency view">✚</button>
+        <button class="primary-button" id="editButton" type="button"><span aria-hidden="true">✎</span><span class="button-label" data-i18n="edit">編輯資料</span></button>
+      </div>
+    </div>
+  </header>
+
+  <div class="page-shell">
+    <aside class="sidebar no-print" aria-label="Record navigation">
+      <section class="sidebar-card profile-card">
+        <div class="profile-head">
+          <div class="avatar" id="avatar">惠</div>
+          <div>
+            <p class="profile-name"><span class="field-value" data-field="preferredName">惠 / Ingrid</span></p>
+            <p class="profile-kicker" data-i18n="portableRecord">Portable health record</p>
+          </div>
+        </div>
+        <div class="status-line">
+          <span class="status-pill"><span class="status-dot"></span><span id="connectionText" data-i18n="offlineReady">Offline ready</span></span>
+          <span><span data-i18n="completion">完成度</span> <strong id="completionPercent">0%</strong></span>
+        </div>
+        <div class="progress-track" aria-hidden="true"><div class="progress-fill" id="progressFill"></div></div>
+        <div class="progress-copy"><span id="completionCount">0 / 0</span><span id="lastUpdatedText" data-i18n="notSaved">尚未儲存</span></div>
+      </section>
+
+      <section class="sidebar-card nav-card">
+        <p class="sidebar-heading" data-i18n="sections">病歷目錄</p>
+        <nav class="section-nav" id="sectionNav">
+          <a class="nav-link active" href="#emergency"><span class="nav-index">00</span><span data-i18n="emergencyTitle">緊急摘要</span></a>
+          <a class="nav-link" href="#identity"><span class="nav-index">01</span><span data-i18n="identification">個人基本資料</span></a>
+          <a class="nav-link" href="#medical"><span class="nav-index">02</span><span data-i18n="medicalHistory">疾病與住院史</span></a>
+          <a class="nav-link" href="#surgery"><span class="nav-index">03</span><span data-i18n="surgeryHistory">手術與麻醉史</span></a>
+          <a class="nav-link" href="#medication"><span class="nav-index">04</span><span data-i18n="medicationHistory">用藥史</span></a>
+          <a class="nav-link" href="#allergies"><span class="nav-index">05</span><span data-i18n="allergiesHistory">過敏與不良反應</span></a>
+          <a class="nav-link" href="#family"><span class="nav-index">06</span><span data-i18n="familyHistory">家族病史</span></a>
+          <a class="nav-link" href="#prevention"><span class="nav-index">07</span><span data-i18n="prevention">疫苗與預防保健</span></a>
+          <a class="nav-link" href="#additional"><span class="nav-index">08</span><span data-i18n="additional">其他健康資料</span></a>
+          <a class="nav-link" href="#care"><span class="nav-index">09</span><span data-i18n="careTeam">醫療團隊與保險</span></a>
+          <a class="nav-link" href="#documents"><span class="nav-index">10</span><span data-i18n="documents">文件與核對</span></a>
+        </nav>
+      </section>
+
+      <section class="sidebar-card actions-card">
+        <div class="sidebar-actions">
+          <button class="soft-button" id="printButton" type="button"><span>⌁</span><span data-i18n="print">列印 / PDF</span></button>
+          <button class="soft-button" id="exportButton" type="button"><span>⇩</span><span data-i18n="export">匯出備份</span></button>
+          <button class="soft-button" id="importButton" type="button"><span>⇧</span><span data-i18n="import">匯入備份</span></button>
+          <button class="danger-button" id="clearButton" type="button"><span>×</span><span data-i18n="clear">清除資料</span></button>
+          <input id="importFile" type="file" accept="application/json,.json" hidden>
+        </div>
+        <div class="privacy-note">
+          <strong data-i18n="localOnly">資料只留在這台裝置</strong>
+          <p data-i18n="localOnlyDesc">這個靜態網站不會上傳你輸入的內容。請勿在共用裝置保存真實病歷，備份檔也要妥善保管。</p>
+        </div>
+      </section>
+    </aside>
+
+    <main id="main-content">
+      <section class="hero record-section" id="emergency">
+        <span class="spark one" aria-hidden="true">✦</span><span class="spark two" aria-hidden="true">ϟ</span>
+        <div class="hero-content">
+          <p class="eyebrow" data-i18n="emergencyBadge">Emergency medical passport</p>
+          <h1 class="hero-title"><span class="field-value" data-field="preferredName">惠 / Ingrid</span></h1>
+          <p class="hero-subtitle" data-i18n="emergencySubtitle">在語言不通或無法完整說明時，先讓醫護人員查看以下重要資料。</p>
+          <div class="hero-meta">
+            <span class="meta-chip" data-i18n="fiveLanguages">5 languages</span>
+            <span class="meta-chip" data-i18n="deviceSaved">Saved on this device</span>
+            <span class="meta-chip"><span data-i18n="lastUpdated">Last updated</span> · <span id="heroUpdated">—</span></span>
+          </div>
+
+          <div class="emergency-grid">
+            <article class="emergency-item"><span class="field-label" data-i18n="bloodType">血型與 Rh</span><div class="field-value" data-field="bloodType" data-placeholder-key="tapToEnter"></div></article>
+            <article class="emergency-item alert"><span class="field-label" data-i18n="allergiesCritical">嚴重過敏</span><div class="field-value" data-field="allergiesCritical" data-placeholder-key="tapToEnter"></div></article>
+            <article class="emergency-item"><span class="field-label" data-i18n="diagnosesCritical">重要疾病</span><div class="field-value" data-field="diagnosesCritical" data-placeholder-key="tapToEnter"></div></article>
+            <article class="emergency-item"><span class="field-label" data-i18n="medsCritical">目前重要用藥</span><div class="field-value" data-field="medsCritical" data-placeholder-key="tapToEnter"></div></article>
+            <article class="emergency-item"><span class="field-label" data-i18n="emergencyContact">緊急聯絡人</span><div class="field-value" data-field="emergencyContact" data-placeholder-key="tapToEnter"></div></article>
+            <article class="emergency-item"><span class="field-label" data-i18n="instructionsCritical">特殊處置提醒</span><div class="field-value" data-field="instructionsCritical" data-placeholder-key="tapToEnter"></div></article>
+          </div>
+
+          <div class="phrase-strip">
+            <div class="phrase-strip-head"><strong data-i18n="quickPhrases">給醫護人員的快速句</strong><span aria-hidden="true">✦</span></div>
+            <div class="phrase-grid">
+              <span class="phrase" data-i18n="phrase1">請先查看我的過敏與用藥資料。</span>
+              <span class="phrase" data-i18n="phrase2">我可能需要翻譯協助。</span>
+              <span class="phrase" data-i18n="phrase3">我的家長／緊急聯絡人資料列在上方。</span>
+              <span class="phrase" data-i18n="phrase4">如情況緊急，請聯絡當地緊急醫療服務。</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="record-section" id="identity">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">I</span><div><p class="section-number">01 · IDENTITY</p><h2 class="section-title" data-i18n="identification">個人基本資料</h2><p class="section-description" data-i18n="identificationDesc">填寫醫護人員辨識身分與聯絡家長時真正需要的資料；證件號碼與完整住址皆為選填。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field"><span class="field-label" data-i18n="legalNameZh">中文姓名</span><div class="field-value" data-field="legalNameZh">廖怡惠</div></div>
+          <div class="data-field"><span class="field-label" data-i18n="legalNameEn">英文姓名</span><div class="field-value" data-field="legalNameEn">Ingrid Yi-Huei Liao</div></div>
+          <div class="data-field"><span class="field-label" data-i18n="preferredName">慣用姓名</span><div class="field-value" data-field="preferredName">惠 / Ingrid</div></div>
+          <div class="data-field"><span class="field-label" data-i18n="dob">出生日期</span><div class="field-value" data-field="dob" data-placeholder-key="datePlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="sexGender">生理性別／性別（選填）</span><div class="field-value" data-field="sexGender" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="nationalityResidence">國籍／居住國家</span><div class="field-value" data-field="nationalityResidence" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="primaryLanguage">主要語言／是否需要翻譯</span><div class="field-value" data-field="primaryLanguage">中文（繁體） / Traditional Chinese</div></div>
+          <div class="data-field"><span class="field-label" data-i18n="contactInfo">本人電話／Email（選填）</span><div class="field-value" data-field="contactInfo" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="guardian">家長／法定代理人與聯絡方式</span><div class="field-value" data-field="guardian" data-placeholder-key="listPlaceholder"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="address">居住地或旅館（選填，請注意隱私）</span><div class="field-value" data-field="address" data-placeholder-key="tapToEnter"></div></div>
+        </div><p class="section-tip"><strong data-i18n="verifyLabel">使用前核對：</strong> <span data-i18n="verifiedNote">姓名以外的個人與醫療資料皆尚未預填。請與家長及醫師確認後再使用。</span></p></div>
+      </section>
+
+      <section class="record-section" id="medical">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">✚</span><div><p class="section-number">02 · MEDICAL HISTORY</p><h2 class="section-title" data-i18n="medicalHistory">疾病與住院史</h2><p class="section-description" data-i18n="medicalHistoryDesc">記錄現在與過去的疾病、急診住院、檢查異常及會影響照護的狀況。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field wide"><span class="field-label" data-i18n="currentConditions">目前診斷／慢性疾病</span><div class="field-value" data-field="currentConditions" data-placeholder-key="structuredPlaceholder"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="pastIllnesses">過去疾病史</span><div class="field-value" data-field="pastIllnesses" data-placeholder-key="structuredPlaceholder"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="hospitalizations">住院／急診紀錄</span><div class="field-value" data-field="hospitalizations" data-placeholder-key="recordPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="infectiousTravel">傳染病／近期旅遊風險</span><div class="field-value" data-field="infectiousTravel" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="mentalHealth">身心健康史（選填）</span><div class="field-value" data-field="mentalHealth" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="disabilityCommunication">身心障礙／溝通或無障礙需求</span><div class="field-value" data-field="disabilityCommunication" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="implantsDevices">植入物／醫療裝置</span><div class="field-value" data-field="implantsDevices" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="testsImaging">重要檢驗／影像異常</span><div class="field-value" data-field="testsImaging" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="transfusions">輸血史／輸血反應</span><div class="field-value" data-field="transfusions" data-placeholder-key="tapToEnter"></div></div>
+        </div></div>
+      </section>
+
+      <section class="record-section" id="surgery">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">◇</span><div><p class="section-number">03 · SURGERY & ANESTHESIA</p><h2 class="section-title" data-i18n="surgeryHistory">手術與麻醉史</h2><p class="section-description" data-i18n="surgeryHistoryDesc">包含手術、侵入性處置、牙科處置、麻醉反應與術後併發狀況。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field wide"><span class="field-label" data-i18n="procedures">手術／處置名稱、日期、地點與原因</span><div class="field-value" data-field="procedures" data-placeholder-key="recordPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="anesthesia">麻醉方式／不良反應</span><div class="field-value" data-field="anesthesia" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="complications">術後併發症／復原情形</span><div class="field-value" data-field="complications" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="dental">牙科／矯正／其他重要處置</span><div class="field-value" data-field="dental" data-placeholder-key="recordPlaceholder"></div></div>
+        </div></div>
+      </section>
+
+      <section class="record-section" id="medication">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">Rx</span><div><p class="section-number">04 · MEDICATIONS</p><h2 class="section-title" data-i18n="medicationHistory">用藥史</h2><p class="section-description" data-i18n="medicationHistoryDesc">藥名最好同時寫學名與商品名，並記錄劑量、用法、頻率、原因與開始日期。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field wide"><span class="field-label" data-i18n="currentMedList">目前處方藥</span><div class="field-value" data-field="currentMedList" data-placeholder-key="medPlaceholder"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="pastMedList">過去用藥／停藥原因</span><div class="field-value" data-field="pastMedList" data-placeholder-key="medPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="supplements">非處方藥／保健品／草藥</span><div class="field-value" data-field="supplements" data-placeholder-key="listPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="adherence">用藥提醒／吞嚥或服藥困難</span><div class="field-value" data-field="adherence" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="pharmacy">常用藥局與聯絡方式</span><div class="field-value" data-field="pharmacy" data-placeholder-key="tapToEnter"></div></div>
+        </div></div>
+      </section>
+
+      <section class="record-section" id="allergies">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">!</span><div><p class="section-number">05 · ALLERGIES</p><h2 class="section-title" data-i18n="allergiesHistory">過敏與不良反應</h2><p class="section-description" data-i18n="allergiesDesc">不要只寫「過敏」；請補上反應症狀、嚴重度、發生時間，以及曾接受的處置。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field"><span class="field-label" data-i18n="drugAllergies">藥物過敏</span><div class="field-value" data-field="drugAllergies" data-placeholder-key="reactionPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="foodAllergies">食物過敏</span><div class="field-value" data-field="foodAllergies" data-placeholder-key="reactionPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="environmentalAllergies">環境／動物／花粉過敏</span><div class="field-value" data-field="environmentalAllergies" data-placeholder-key="reactionPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="materialAllergies">乳膠／膠帶／金屬等材質過敏</span><div class="field-value" data-field="materialAllergies" data-placeholder-key="reactionPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="contrastAllergies">顯影劑／消毒劑反應</span><div class="field-value" data-field="contrastAllergies" data-placeholder-key="reactionPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="reactionPlan">嚴重過敏的緊急處置計畫</span><div class="field-value" data-field="reactionPlan" data-placeholder-key="tapToEnter"></div></div>
+        </div></div>
+      </section>
+
+      <section class="record-section" id="family">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">⌂</span><div><p class="section-number">06 · FAMILY HISTORY</p><h2 class="section-title" data-i18n="familyHistory">家族病史</h2><p class="section-description" data-i18n="familyDesc">以親屬關係、疾病名稱、診斷年齡或重要說明記錄；不知道的資料可留空。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field wide"><span class="field-label" data-i18n="familyConditions">重要家族疾病</span><div class="field-value" data-field="familyConditions" data-placeholder-key="familyPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="geneticHistory">遺傳性／先天性疾病</span><div class="field-value" data-field="geneticHistory" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="earlyDeath">早發重大疾病／不明原因早逝</span><div class="field-value" data-field="earlyDeath" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="familyNotes">其他家族健康說明</span><div class="field-value" data-field="familyNotes" data-placeholder-key="tapToEnter"></div></div>
+        </div></div>
+      </section>
+
+      <section class="record-section" id="prevention">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">✓</span><div><p class="section-number">07 · PREVENTION</p><h2 class="section-title" data-i18n="prevention">疫苗與預防保健</h2><p class="section-description" data-i18n="preventionDesc">保留疫苗日期、最近健檢、重要篩檢與牙科／視力紀錄，旅行前也方便核對。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field wide"><span class="field-label" data-i18n="vaccines">疫苗接種紀錄</span><div class="field-value" data-field="vaccines" data-placeholder-key="vaccinePlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="screenings">重要篩檢／檢測</span><div class="field-value" data-field="screenings" data-placeholder-key="recordPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="lastPhysical">最近一次健康檢查</span><div class="field-value" data-field="lastPhysical" data-placeholder-key="datePlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="dentalVision">牙科／視力／聽力紀錄</span><div class="field-value" data-field="dentalVision" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="bloodTests">重要血液檢查／檢驗趨勢</span><div class="field-value" data-field="bloodTests" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="menstrualRepro">月經／生殖健康（選填）</span><div class="field-value" data-field="menstrualRepro" data-placeholder-key="tapToEnter"></div></div>
+        </div></div>
+      </section>
+
+      <section class="record-section" id="additional">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">✦</span><div><p class="section-number">08 · ADDITIONAL HEALTH</p><h2 class="section-title" data-i18n="additional">其他健康資料</h2><p class="section-description" data-i18n="additionalDesc">記錄會影響旅行、飲食、溝通、照護方式或日常健康的補充資訊。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field"><span class="field-label" data-i18n="dietNeeds">飲食限制／特殊營養需求</span><div class="field-value" data-field="dietNeeds" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="sleepActivity">睡眠／活動／運動注意事項</span><div class="field-value" data-field="sleepActivity" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="substanceExposure">菸酒或其他物質暴露（醫療選填）</span><div class="field-value" data-field="substanceExposure" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="culturalNeeds">宗教／文化照護需求</span><div class="field-value" data-field="culturalNeeds" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="travelNeeds">旅行時的藥物保存／時區安排</span><div class="field-value" data-field="travelNeeds" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="sensoryNeeds">感官敏感／溝通偏好</span><div class="field-value" data-field="sensoryNeeds" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="otherNotes">其他要讓醫護知道的事</span><div class="field-value" data-field="otherNotes" data-placeholder-key="tapToEnter"></div></div>
+        </div></div>
+      </section>
+
+      <section class="record-section" id="care">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">＋</span><div><p class="section-number">09 · CARE TEAM</p><h2 class="section-title" data-i18n="careTeam">醫療團隊與保險</h2><p class="section-description" data-i18n="careTeamDesc">旅行或轉診時，醫師、醫院、藥局、保險與翻譯聯絡資料會非常實用。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field"><span class="field-label" data-i18n="primaryDoctor">家庭醫師／主要醫師</span><div class="field-value" data-field="primaryDoctor" data-placeholder-key="contactPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="specialists">專科醫師</span><div class="field-value" data-field="specialists" data-placeholder-key="contactPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="preferredHospital">常用／偏好醫院</span><div class="field-value" data-field="preferredHospital" data-placeholder-key="contactPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="insurance">保險公司／保單資訊</span><div class="field-value" data-field="insurance" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="interpreter">翻譯／語言協助聯絡人</span><div class="field-value" data-field="interpreter" data-placeholder-key="contactPlaceholder"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="guardianCare">家長／照護決策聯絡人</span><div class="field-value" data-field="guardianCare" data-placeholder-key="contactPlaceholder"></div></div>
+        </div></div>
+      </section>
+
+      <section class="record-section" id="documents">
+        <header class="section-header"><span class="section-icon" aria-hidden="true">▤</span><div><p class="section-number">10 · DOCUMENTS & REVIEW</p><h2 class="section-title" data-i18n="documents">文件與核對</h2><p class="section-description" data-i18n="documentsDesc">記錄正本文件放在哪裡、誰核對過內容，以及下次應更新的日期。</p></div></header>
+        <div class="section-body"><div class="data-grid">
+          <div class="data-field"><span class="field-label" data-i18n="recordLocation">完整病歷／檢查報告位置</span><div class="field-value" data-field="recordLocation" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="insuranceCard">健保／旅行保險卡位置</span><div class="field-value" data-field="insuranceCard" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="vaccineCard">疫苗證明位置</span><div class="field-value" data-field="vaccineCard" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="medicalLetters">診斷證明／醫師信件</span><div class="field-value" data-field="medicalLetters" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="verifiedBy">最近核對者與日期</span><div class="field-value" data-field="verifiedBy" data-placeholder-key="tapToEnter"></div></div>
+          <div class="data-field"><span class="field-label" data-i18n="reviewDate">下次更新日期</span><div class="field-value" data-field="reviewDate" data-placeholder-key="datePlaceholder"></div></div>
+          <div class="data-field wide"><span class="field-label" data-i18n="languageNotes">專有名詞／其他語言翻譯備註</span><div class="field-value" data-field="languageNotes" data-placeholder-key="tapToEnter"></div></div>
+        </div></div>
+      </section>
+
+      <footer class="footer-note"><strong data-i18n="disclaimerTitle">重要提醒：</strong> <span data-i18n="footerDisclaimer">這是旅行與緊急溝通用的個人醫療摘要，不是醫院正式病歷，也不能取代醫師判斷。使用前請由本人、家長／法定代理人及醫療專業人員共同核對。</span></footer>
+    </main>
+  </div>
+
+  <div class="save-dock no-print" role="region" aria-label="Editing controls">
+    <span class="edit-hint" data-i18n="editHint">點選任何欄位即可輸入</span>
+    <button class="soft-button" id="cancelEditButton" type="button" data-i18n="cancel">取消</button>
+    <button class="primary-button" id="saveButton" type="button"><span>✓</span><span data-i18n="save">儲存到此裝置</span></button>
+  </div>
+
+  <script>
+    "use strict";
+
+    const translations = {
+      zh: {
+        pageTitle: "惠的多語言醫療護照", appName: "惠的醫療護照", privateLabel: "私人 · 多語言 · 可離線使用", language: "語言",
+        edit: "編輯資料", done: "完成編輯", save: "儲存到此裝置", cancel: "取消", privacy: "開啟隱私遮罩", reveal: "顯示資料",
+        emergencyMode: "只顯示緊急摘要", fullRecord: "顯示完整病歷", print: "列印 / PDF", export: "匯出備份", import: "匯入備份", clear: "清除資料",
+        portableRecord: "隨身健康紀錄", offlineReady: "離線可用", deviceReady: "裝置已就緒", completion: "完成度", sections: "病歷目錄",
+        notSaved: "尚未儲存", lastUpdated: "最後更新", fields: "欄", fiveLanguages: "5 種語言", deviceSaved: "儲存在本裝置",
+        localOnly: "資料只留在這台裝置", localOnlyDesc: "這個靜態網站不會上傳你輸入的內容。請勿在共用裝置保存真實病歷，備份檔也要妥善保管。",
+        emergencyTitle: "緊急摘要", emergencyBadge: "Emergency medical passport", emergencySubtitle: "在語言不通或無法完整說明時，先讓醫護人員查看以下重要資料。",
+        quickPhrases: "給醫護人員的快速句", phrase1: "請先查看我的過敏與用藥資料。", phrase2: "我可能需要翻譯協助。",
+        phrase3: "我的家長／緊急聯絡人資料列在上方。", phrase4: "如情況緊急，請聯絡當地緊急醫療服務。",
+        identification: "個人基本資料", identificationDesc: "填寫醫護人員辨識身分與聯絡家長時真正需要的資料；證件號碼與完整住址皆為選填。",
+        medicalHistory: "疾病與住院史", medicalHistoryDesc: "記錄現在與過去的疾病、急診住院、檢查異常及會影響照護的狀況。",
+        surgeryHistory: "手術與麻醉史", surgeryHistoryDesc: "包含手術、侵入性處置、牙科處置、麻醉反應與術後併發狀況。",
+        medicationHistory: "用藥史", medicationHistoryDesc: "藥名最好同時寫學名與商品名，並記錄劑量、用法、頻率、原因與開始日期。",
+        allergiesHistory: "過敏與不良反應", allergiesDesc: "不要只寫「過敏」；請補上反應症狀、嚴重度、發生時間，以及曾接受的處置。",
+        familyHistory: "家族病史", familyDesc: "以親屬關係、疾病名稱、診斷年齡或重要說明記錄；不知道的資料可留空。",
+        prevention: "疫苗與預防保健", preventionDesc: "保留疫苗日期、最近健檢、重要篩檢與牙科／視力紀錄，旅行前也方便核對。",
+        additional: "其他健康資料", additionalDesc: "記錄會影響旅行、飲食、溝通、照護方式或日常健康的補充資訊。",
+        careTeam: "醫療團隊與保險", careTeamDesc: "旅行或轉診時，醫師、醫院、藥局、保險與翻譯聯絡資料會非常實用。",
+        documents: "文件與核對", documentsDesc: "記錄正本文件放在哪裡、誰核對過內容，以及下次應更新的日期。",
+        legalNameZh: "中文姓名", legalNameEn: "英文姓名", preferredName: "慣用姓名", dob: "出生日期", sexGender: "生理性別／性別（選填）",
+        nationalityResidence: "國籍／居住國家", primaryLanguage: "主要語言／是否需要翻譯", contactInfo: "本人電話／Email（選填）",
+        guardian: "家長／法定代理人與聯絡方式", address: "居住地或旅館（選填，請注意隱私）", emergencyContact: "緊急聯絡人",
+        bloodType: "血型與 Rh", allergiesCritical: "嚴重過敏", diagnosesCritical: "重要疾病", medsCritical: "目前重要用藥", instructionsCritical: "特殊處置提醒",
+        currentConditions: "目前診斷／慢性疾病", pastIllnesses: "過去疾病史", hospitalizations: "住院／急診紀錄", infectiousTravel: "傳染病／近期旅遊風險",
+        mentalHealth: "身心健康史（選填）", disabilityCommunication: "身心障礙／溝通或無障礙需求", implantsDevices: "植入物／醫療裝置",
+        testsImaging: "重要檢驗／影像異常", transfusions: "輸血史／輸血反應", procedures: "手術／處置名稱、日期、地點與原因",
+        anesthesia: "麻醉方式／不良反應", complications: "術後併發症／復原情形", dental: "牙科／矯正／其他重要處置",
+        currentMedList: "目前處方藥", pastMedList: "過去用藥／停藥原因", supplements: "非處方藥／保健品／草藥",
+        adherence: "用藥提醒／吞嚥或服藥困難", pharmacy: "常用藥局與聯絡方式", drugAllergies: "藥物過敏", foodAllergies: "食物過敏",
+        environmentalAllergies: "環境／動物／花粉過敏", materialAllergies: "乳膠／膠帶／金屬等材質過敏", contrastAllergies: "顯影劑／消毒劑反應",
+        reactionPlan: "嚴重過敏的緊急處置計畫", familyConditions: "重要家族疾病", geneticHistory: "遺傳性／先天性疾病",
+        earlyDeath: "早發重大疾病／不明原因早逝", familyNotes: "其他家族健康說明", vaccines: "疫苗接種紀錄", screenings: "重要篩檢／檢測",
+        lastPhysical: "最近一次健康檢查", dentalVision: "牙科／視力／聽力紀錄", bloodTests: "重要血液檢查／檢驗趨勢", menstrualRepro: "月經／生殖健康（選填）",
+        dietNeeds: "飲食限制／特殊營養需求", sleepActivity: "睡眠／活動／運動注意事項", substanceExposure: "菸酒或其他物質暴露（醫療選填）",
+        culturalNeeds: "宗教／文化照護需求", travelNeeds: "旅行時的藥物保存／時區安排", sensoryNeeds: "感官敏感／溝通偏好", otherNotes: "其他要讓醫護知道的事",
+        primaryDoctor: "家庭醫師／主要醫師", specialists: "專科醫師", preferredHospital: "常用／偏好醫院", insurance: "保險公司／保單資訊",
+        interpreter: "翻譯／語言協助聯絡人", guardianCare: "家長／照護決策聯絡人", recordLocation: "完整病歷／檢查報告位置",
+        insuranceCard: "健保／旅行保險卡位置", vaccineCard: "疫苗證明位置", medicalLetters: "診斷證明／醫師信件", verifiedBy: "最近核對者與日期",
+        reviewDate: "下次更新日期", languageNotes: "專有名詞／其他語言翻譯備註", verifyLabel: "使用前核對：",
+        verifiedNote: "姓名以外的個人與醫療資料皆尚未預填。請與家長及醫師確認後再使用。",
+        disclaimerTitle: "重要提醒：", footerDisclaimer: "這是旅行與緊急溝通用的個人醫療摘要，不是醫院正式病歷，也不能取代醫師判斷。使用前請由本人、家長／法定代理人及醫療專業人員共同核對。",
+        tapToEnter: "點選「編輯資料」後填寫", datePlaceholder: "日期：YYYY-MM-DD", listPlaceholder: "每項一行；可補上關係、電話或說明",
+        structuredPlaceholder: "每項一行：名稱｜診斷日期｜目前狀態｜備註", recordPlaceholder: "每項一行：日期｜事件／處置｜醫院或國家｜結果",
+        medPlaceholder: "每項一行：藥名｜劑量｜用法／頻率｜原因｜開始或停用日期", reactionPlaceholder: "物質｜反應｜嚴重度｜發生時間｜處置",
+        familyPlaceholder: "每項一行：親屬關係｜疾病｜診斷年齡｜備註", vaccinePlaceholder: "疫苗名稱｜劑次｜日期｜接種地點", contactPlaceholder: "姓名／機構｜專科或關係｜電話／Email",
+        editHint: "點選任何欄位即可輸入", editOn: "已開啟編輯模式", savedToast: "資料已儲存到這台裝置", cancelledToast: "已取消這次修改",
+        privacyOn: "隱私遮罩已開啟", privacyOff: "資料已顯示", emergencyOn: "已切換為緊急摘要", emergencyOff: "已顯示完整病歷",
+        exportedToast: "備份檔已下載；請妥善保管", importConfirm: "匯入會取代這台裝置目前的病歷內容，確定繼續嗎？", importedToast: "備份已匯入",
+        importError: "無法讀取這份備份檔", clearConfirm: "確定要清除這台裝置保存的全部醫療資料嗎？此動作無法復原。"
+      },
+      en: {
+        pageTitle: "Ingrid's Multilingual Medical Passport", appName: "Ingrid's Medical Passport", privateLabel: "Private · Multilingual · Offline-ready", language: "Language",
+        edit: "Edit record", done: "Finish editing", save: "Save on this device", cancel: "Cancel", privacy: "Turn on privacy mask", reveal: "Reveal information",
+        emergencyMode: "Show emergency summary only", fullRecord: "Show full record", print: "Print / PDF", export: "Export backup", import: "Import backup", clear: "Clear data",
+        portableRecord: "Portable health record", offlineReady: "Available offline", deviceReady: "Device ready", completion: "Completion", sections: "Record sections",
+        notSaved: "Not saved yet", lastUpdated: "Last updated", fields: "fields", fiveLanguages: "5 languages", deviceSaved: "Saved on this device",
+        localOnly: "Your entries stay on this device", localOnlyDesc: "This static page does not upload what you enter. Do not save real medical data on a shared device, and protect exported backup files.",
+        emergencyTitle: "Emergency summary", emergencyBadge: "Emergency medical passport", emergencySubtitle: "If language or communication is difficult, show this essential information to medical staff first.",
+        quickPhrases: "Quick phrases for medical staff", phrase1: "Please check my allergy and medication information first.", phrase2: "I may need an interpreter.",
+        phrase3: "My parent or emergency contact is listed above.", phrase4: "If this is urgent, please contact local emergency medical services.",
+        identification: "Personal details", identificationDesc: "Include only what medical staff need to identify you and contact a parent. Document numbers and a full address are optional.",
+        medicalHistory: "Medical & hospital history", medicalHistoryDesc: "Record current and past conditions, emergency visits, hospital stays, abnormal tests, and anything that may affect care.",
+        surgeryHistory: "Surgery & anesthesia history", surgeryHistoryDesc: "Include operations, invasive procedures, dental procedures, anesthesia reactions, and postoperative complications.",
+        medicationHistory: "Medication history", medicationHistoryDesc: "Use generic and brand names when possible, with dose, route, frequency, reason, and start date.",
+        allergiesHistory: "Allergies & adverse reactions", allergiesDesc: "Do not write only “allergic.” Add the reaction, severity, timing, and any treatment received.",
+        familyHistory: "Family medical history", familyDesc: "List the relative, condition, age at diagnosis, and important notes. Leave unknown details blank.",
+        prevention: "Vaccines & preventive care", preventionDesc: "Keep vaccine dates, recent checkups, key screenings, and dental or vision records for travel and routine care.",
+        additional: "Additional health information", additionalDesc: "Add information that affects travel, food, communication, daily health, or how care should be provided.",
+        careTeam: "Care team & insurance", careTeamDesc: "Doctor, hospital, pharmacy, insurance, and interpreter contacts are useful during travel or referrals.",
+        documents: "Documents & review", documentsDesc: "Record where original documents are kept, who verified the information, and when it should be reviewed again.",
+        legalNameZh: "Name in Chinese", legalNameEn: "Name in English", preferredName: "Preferred name", dob: "Date of birth", sexGender: "Sex at birth / gender (optional)",
+        nationalityResidence: "Nationality / country of residence", primaryLanguage: "Primary language / interpreter needed", contactInfo: "Personal phone / email (optional)",
+        guardian: "Parent / legal guardian and contact", address: "Home or hotel address (optional; protect privacy)", emergencyContact: "Emergency contact",
+        bloodType: "Blood type & Rh", allergiesCritical: "Severe allergies", diagnosesCritical: "Major conditions", medsCritical: "Important current medicines", instructionsCritical: "Special care instructions",
+        currentConditions: "Current diagnoses / chronic conditions", pastIllnesses: "Past medical conditions", hospitalizations: "Hospital / emergency visits", infectiousTravel: "Infectious disease / recent travel risk",
+        mentalHealth: "Mental and behavioral health (optional)", disabilityCommunication: "Disability / communication / accessibility needs", implantsDevices: "Implants / medical devices",
+        testsImaging: "Important lab / imaging findings", transfusions: "Transfusion history / reactions", procedures: "Surgery or procedure, date, place, and reason",
+        anesthesia: "Anesthesia type / reactions", complications: "Complications / recovery", dental: "Dental / orthodontic / other procedures",
+        currentMedList: "Current prescription medicines", pastMedList: "Past medicines / reason stopped", supplements: "Over-the-counter medicines / supplements / herbs",
+        adherence: "Medication reminders / swallowing or dosing difficulty", pharmacy: "Usual pharmacy and contact", drugAllergies: "Medication allergies", foodAllergies: "Food allergies",
+        environmentalAllergies: "Environmental / animal / pollen allergies", materialAllergies: "Latex / adhesive / metal allergies", contrastAllergies: "Contrast dye / antiseptic reactions",
+        reactionPlan: "Emergency plan for severe allergy", familyConditions: "Important family conditions", geneticHistory: "Genetic / congenital conditions",
+        earlyDeath: "Early major illness / unexplained early death", familyNotes: "Other family health notes", vaccines: "Vaccination record", screenings: "Important screenings / tests",
+        lastPhysical: "Most recent health check", dentalVision: "Dental / vision / hearing record", bloodTests: "Important blood tests / trends", menstrualRepro: "Menstrual / reproductive health (optional)",
+        dietNeeds: "Diet restrictions / nutrition needs", sleepActivity: "Sleep / activity / exercise precautions", substanceExposure: "Tobacco, alcohol, or other exposure (medical; optional)",
+        culturalNeeds: "Religious / cultural care needs", travelNeeds: "Medicine storage / time-zone plan for travel", sensoryNeeds: "Sensory needs / communication preferences", otherNotes: "Anything else medical staff should know",
+        primaryDoctor: "Primary doctor", specialists: "Specialists", preferredHospital: "Usual / preferred hospital", insurance: "Insurance company / policy information",
+        interpreter: "Interpreter / language support contact", guardianCare: "Parent / care decision contact", recordLocation: "Full record / test report location",
+        insuranceCard: "Health / travel insurance card location", vaccineCard: "Vaccination certificate location", medicalLetters: "Medical certificates / doctor letters", verifiedBy: "Last verified by / date",
+        reviewDate: "Next review date", languageNotes: "Medical terms / translation notes", verifyLabel: "Verify before use:",
+        verifiedNote: "Only the user's verified names are prefilled. Confirm all personal and medical information with a parent or guardian and a doctor before use.",
+        disclaimerTitle: "Important:", footerDisclaimer: "This is a personal medical summary for travel and emergency communication. It is not an official hospital record and does not replace medical judgment. The user, a parent or legal guardian, and a qualified clinician should verify it before use.",
+        tapToEnter: "Choose “Edit record” to enter information", datePlaceholder: "Date: YYYY-MM-DD", listPlaceholder: "One item per line; add relation, phone, or notes",
+        structuredPlaceholder: "One per line: name | diagnosis date | current status | notes", recordPlaceholder: "One per line: date | event / procedure | hospital or country | outcome",
+        medPlaceholder: "One per line: medicine | dose | route / frequency | reason | start or stop date", reactionPlaceholder: "Substance | reaction | severity | date | treatment",
+        familyPlaceholder: "One per line: relative | condition | age at diagnosis | notes", vaccinePlaceholder: "Vaccine | dose number | date | location", contactPlaceholder: "Name / organization | specialty or relation | phone / email",
+        editHint: "Select any field to enter information", editOn: "Editing mode is on", savedToast: "Record saved on this device", cancelledToast: "Changes cancelled",
+        privacyOn: "Privacy mask is on", privacyOff: "Information is visible", emergencyOn: "Emergency summary is showing", emergencyOff: "Full record is showing",
+        exportedToast: "Backup downloaded; keep it secure", importConfirm: "Importing will replace the record currently saved on this device. Continue?", importedToast: "Backup imported",
+        importError: "This backup file could not be read", clearConfirm: "Clear all medical information saved on this device? This cannot be undone."
+      },
+      ja: {
+        pageTitle: "Ingridの多言語メディカルパスポート", appName: "Ingridのメディカルパスポート", privateLabel: "非公開 · 多言語 · オフライン対応", language: "言語",
+        edit: "情報を編集", done: "編集を終了", save: "この端末に保存", cancel: "キャンセル", privacy: "プライバシー表示をオン", reveal: "情報を表示",
+        emergencyMode: "緊急情報のみ表示", fullRecord: "全記録を表示", print: "印刷 / PDF", export: "バックアップを書き出す", import: "バックアップを読み込む", clear: "データを消去",
+        portableRecord: "携帯用健康記録", offlineReady: "オフライン利用可", deviceReady: "端末の準備完了", completion: "入力状況", sections: "記録項目",
+        notSaved: "未保存", lastUpdated: "最終更新", fields: "項目", fiveLanguages: "5言語", deviceSaved: "この端末に保存",
+        localOnly: "入力内容はこの端末内だけに保存", localOnlyDesc: "この静的ページは入力内容をアップロードしません。共有端末に実際の医療情報を保存せず、書き出したバックアップも安全に保管してください。",
+        emergencyTitle: "緊急時サマリー", emergencyBadge: "緊急用メディカルパスポート", emergencySubtitle: "言葉や意思疎通が難しい場合は、まずこの重要情報を医療従事者に見せてください。",
+        quickPhrases: "医療従事者への短いメッセージ", phrase1: "最初にアレルギーと服薬情報を確認してください。", phrase2: "通訳が必要な場合があります。",
+        phrase3: "保護者または緊急連絡先は上に記載されています。", phrase4: "緊急の場合は現地の救急医療サービスに連絡してください。",
+        identification: "基本情報", identificationDesc: "本人確認と保護者への連絡に必要な情報だけを記入してください。身分証番号や完全な住所は任意です。",
+        medicalHistory: "病歴・入院歴", medicalHistoryDesc: "現在・過去の病気、救急受診、入院、検査異常、診療に影響する状態を記録します。",
+        surgeryHistory: "手術・麻酔歴", surgeryHistoryDesc: "手術、侵襲的処置、歯科処置、麻酔反応、術後合併症を含めます。",
+        medicationHistory: "服薬歴", medicationHistoryDesc: "可能であれば一般名と商品名、用量、投与経路、頻度、目的、開始日を記録してください。",
+        allergiesHistory: "アレルギー・副作用", allergiesDesc: "「アレルギーあり」だけでなく、症状、重症度、発生時期、受けた処置も記載してください。",
+        familyHistory: "家族歴", familyDesc: "続柄、病名、診断年齢、重要な補足を記録します。不明な情報は空欄で構いません。",
+        prevention: "予防接種・予防医療", preventionDesc: "予防接種日、直近の健診、重要な検査、歯科・視力記録を旅行や日常診療のために保管します。",
+        additional: "その他の健康情報", additionalDesc: "旅行、食事、意思疎通、日常の健康、ケア方法に影響する情報を追加します。",
+        careTeam: "医療チーム・保険", careTeamDesc: "旅行や紹介受診では、医師、病院、薬局、保険、通訳の連絡先が役立ちます。",
+        documents: "書類・確認", documentsDesc: "原本の保管場所、確認者、次回の見直し日を記録します。",
+        legalNameZh: "中国語氏名", legalNameEn: "英語氏名", preferredName: "呼ばれたい名前", dob: "生年月日", sexGender: "出生時の性別／ジェンダー（任意）",
+        nationalityResidence: "国籍／居住国", primaryLanguage: "第一言語／通訳の要否", contactInfo: "本人の電話／メール（任意）",
+        guardian: "保護者／法定代理人と連絡先", address: "自宅または滞在先（任意・プライバシーに注意）", emergencyContact: "緊急連絡先",
+        bloodType: "血液型・Rh", allergiesCritical: "重度のアレルギー", diagnosesCritical: "重要な疾患", medsCritical: "重要な現在の薬", instructionsCritical: "特別なケア指示",
+        currentConditions: "現在の診断／慢性疾患", pastIllnesses: "既往歴", hospitalizations: "入院／救急受診歴", infectiousTravel: "感染症／最近の渡航リスク",
+        mentalHealth: "心身の健康歴（任意）", disabilityCommunication: "障害／意思疎通／アクセシビリティの必要", implantsDevices: "体内インプラント／医療機器",
+        testsImaging: "重要な検査／画像所見", transfusions: "輸血歴／輸血反応", procedures: "手術・処置名、日付、場所、理由",
+        anesthesia: "麻酔方法／副反応", complications: "合併症／回復状況", dental: "歯科／矯正／その他の処置",
+        currentMedList: "現在の処方薬", pastMedList: "過去の薬／中止理由", supplements: "市販薬／サプリメント／生薬",
+        adherence: "服薬上の注意／嚥下・服用の困難", pharmacy: "利用薬局と連絡先", drugAllergies: "薬剤アレルギー", foodAllergies: "食物アレルギー",
+        environmentalAllergies: "環境／動物／花粉アレルギー", materialAllergies: "ラテックス／粘着剤／金属アレルギー", contrastAllergies: "造影剤／消毒薬への反応",
+        reactionPlan: "重度アレルギーの緊急対応計画", familyConditions: "重要な家族の病気", geneticHistory: "遺伝性／先天性疾患",
+        earlyDeath: "若年発症の重大疾患／原因不明の早逝", familyNotes: "その他の家族健康情報", vaccines: "予防接種記録", screenings: "重要な検診／検査",
+        lastPhysical: "直近の健康診断", dentalVision: "歯科／視力／聴力記録", bloodTests: "重要な血液検査／推移", menstrualRepro: "月経／生殖に関する健康（任意）",
+        dietNeeds: "食事制限／栄養上の必要", sleepActivity: "睡眠／活動／運動の注意", substanceExposure: "たばこ・アルコール等への曝露（医療用・任意）",
+        culturalNeeds: "宗教／文化上のケアの希望", travelNeeds: "旅行時の薬の保管／時差対応", sensoryNeeds: "感覚面の配慮／意思疎通の希望", otherNotes: "医療従事者に伝えたいその他の情報",
+        primaryDoctor: "かかりつけ医", specialists: "専門医", preferredHospital: "利用／希望する病院", insurance: "保険会社／契約情報",
+        interpreter: "通訳／言語支援の連絡先", guardianCare: "保護者／医療判断の連絡先", recordLocation: "全病歴／検査報告の保管場所",
+        insuranceCard: "健康／旅行保険証の保管場所", vaccineCard: "予防接種証明の保管場所", medicalLetters: "診断書／医師の手紙", verifiedBy: "最終確認者／日付",
+        reviewDate: "次回見直し日", languageNotes: "医療用語／翻訳メモ", verifyLabel: "使用前に確認：",
+        verifiedNote: "確認済みの氏名以外は未入力です。使用前に保護者と医師にすべての個人・医療情報を確認してください。",
+        disclaimerTitle: "重要：", footerDisclaimer: "これは旅行および緊急時の意思疎通に使う個人用医療サマリーです。病院の正式な診療記録ではなく、医師の判断に代わるものではありません。使用前に本人、保護者／法定代理人、医療専門職で確認してください。",
+        tapToEnter: "「情報を編集」を選んで入力", datePlaceholder: "日付：YYYY-MM-DD", listPlaceholder: "1行に1項目。続柄、電話、補足も記入可",
+        structuredPlaceholder: "1行に1項目：名称｜診断日｜現在の状態｜補足", recordPlaceholder: "1行に1件：日付｜出来事／処置｜病院または国｜結果",
+        medPlaceholder: "1行に1薬：薬名｜用量｜経路／頻度｜目的｜開始・中止日", reactionPlaceholder: "原因物質｜反応｜重症度｜日付｜処置",
+        familyPlaceholder: "1行に1件：続柄｜病名｜診断年齢｜補足", vaccinePlaceholder: "ワクチン｜回数｜日付｜接種場所", contactPlaceholder: "氏名／機関｜専門または関係｜電話／メール",
+        editHint: "任意の欄を選んで入力", editOn: "編集モードを開始しました", savedToast: "この端末に保存しました", cancelledToast: "変更を取り消しました",
+        privacyOn: "プライバシー表示をオンにしました", privacyOff: "情報を表示しました", emergencyOn: "緊急時サマリーを表示中", emergencyOff: "全記録を表示中",
+        exportedToast: "バックアップを保存しました。安全に保管してください", importConfirm: "読み込むと、この端末に保存中の記録が置き換わります。続行しますか？", importedToast: "バックアップを読み込みました",
+        importError: "このバックアップファイルを読み込めません", clearConfirm: "この端末に保存された医療情報をすべて消去しますか？元に戻せません。"
+      },
+      ko: {
+        pageTitle: "Ingrid의 다국어 의료 패스포트", appName: "Ingrid의 의료 패스포트", privateLabel: "비공개 · 다국어 · 오프라인 사용 가능", language: "언어",
+        edit: "기록 편집", done: "편집 완료", save: "이 기기에 저장", cancel: "취소", privacy: "개인정보 가림 켜기", reveal: "정보 표시",
+        emergencyMode: "응급 요약만 표시", fullRecord: "전체 기록 표시", print: "인쇄 / PDF", export: "백업 내보내기", import: "백업 가져오기", clear: "데이터 삭제",
+        portableRecord: "휴대용 건강 기록", offlineReady: "오프라인 사용 가능", deviceReady: "기기 준비 완료", completion: "작성률", sections: "기록 항목",
+        notSaved: "아직 저장되지 않음", lastUpdated: "마지막 업데이트", fields: "항목", fiveLanguages: "5개 언어", deviceSaved: "이 기기에 저장됨",
+        localOnly: "입력 내용은 이 기기에만 저장됩니다", localOnlyDesc: "이 정적 페이지는 입력한 내용을 업로드하지 않습니다. 공용 기기에 실제 의료정보를 저장하지 말고, 내보낸 백업 파일도 안전하게 보관하세요.",
+        emergencyTitle: "응급 요약", emergencyBadge: "응급 의료 패스포트", emergencySubtitle: "언어 또는 의사소통이 어려울 때 아래의 핵심 정보를 의료진에게 먼저 보여 주세요.",
+        quickPhrases: "의료진에게 보여 줄 빠른 문장", phrase1: "알레르기와 복용약 정보를 먼저 확인해 주세요.", phrase2: "통역이 필요할 수 있습니다.",
+        phrase3: "보호자 또는 응급 연락처는 위에 적혀 있습니다.", phrase4: "응급 상황이면 현지 응급의료서비스에 연락해 주세요.",
+        identification: "기본 인적 사항", identificationDesc: "본인 확인과 보호자 연락에 의료진이 실제로 필요한 정보만 입력하세요. 신분증 번호와 전체 주소는 선택 사항입니다.",
+        medicalHistory: "질병 및 입원력", medicalHistoryDesc: "현재와 과거의 질환, 응급실 방문, 입원, 비정상 검사 결과, 치료에 영향을 줄 상태를 기록합니다.",
+        surgeryHistory: "수술 및 마취력", surgeryHistoryDesc: "수술, 침습적 시술, 치과 처치, 마취 반응, 수술 후 합병증을 포함합니다.",
+        medicationHistory: "복약 이력", medicationHistoryDesc: "가능하면 성분명과 상품명, 용량, 투여 경로, 빈도, 복용 이유, 시작일을 기록하세요.",
+        allergiesHistory: "알레르기 및 이상반응", allergiesDesc: "단순히 ‘알레르기’라고만 쓰지 말고 증상, 심각도, 발생 시점, 받은 처치를 적으세요.",
+        familyHistory: "가족력", familyDesc: "가족 관계, 질환명, 진단 나이, 중요한 설명을 기록합니다. 모르는 내용은 비워 두어도 됩니다.",
+        prevention: "예방접종 및 예방 관리", preventionDesc: "여행과 일상 진료에 활용하도록 접종일, 최근 검진, 주요 선별검사, 치과·시력 기록을 보관합니다.",
+        additional: "기타 건강 정보", additionalDesc: "여행, 식사, 의사소통, 일상 건강 또는 돌봄 방식에 영향을 주는 정보를 추가합니다.",
+        careTeam: "의료진 및 보험", careTeamDesc: "여행이나 의뢰 진료 때 의사, 병원, 약국, 보험, 통역 연락처가 유용합니다.",
+        documents: "문서 및 검토", documentsDesc: "원본 문서 보관 위치, 정보 확인자, 다음 검토 날짜를 기록합니다.",
+        legalNameZh: "중문 성명", legalNameEn: "영문 성명", preferredName: "선호 이름", dob: "생년월일", sexGender: "출생 시 성별／성별 정체성(선택)",
+        nationalityResidence: "국적／거주 국가", primaryLanguage: "주 사용 언어／통역 필요 여부", contactInfo: "본인 전화／이메일(선택)",
+        guardian: "부모／법정대리인 및 연락처", address: "집 또는 숙소 주소(선택, 개인정보 주의)", emergencyContact: "응급 연락처",
+        bloodType: "혈액형 및 Rh", allergiesCritical: "중증 알레르기", diagnosesCritical: "중요 질환", medsCritical: "현재 중요 복용약", instructionsCritical: "특별 처치 지침",
+        currentConditions: "현재 진단／만성질환", pastIllnesses: "과거 병력", hospitalizations: "입원／응급실 방문", infectiousTravel: "감염병／최근 여행 위험",
+        mentalHealth: "정신 및 행동 건강력(선택)", disabilityCommunication: "장애／의사소통／접근성 요구", implantsDevices: "삽입물／의료기기",
+        testsImaging: "중요 검사／영상 소견", transfusions: "수혈 이력／수혈 반응", procedures: "수술·시술명, 날짜, 장소, 이유",
+        anesthesia: "마취 방법／이상반응", complications: "합병증／회복 상태", dental: "치과／교정／기타 주요 처치",
+        currentMedList: "현재 처방약", pastMedList: "과거 복용약／중단 이유", supplements: "일반의약품／보충제／생약",
+        adherence: "복약 알림／삼킴 또는 복용 어려움", pharmacy: "이용 약국 및 연락처", drugAllergies: "약물 알레르기", foodAllergies: "음식 알레르기",
+        environmentalAllergies: "환경／동물／꽃가루 알레르기", materialAllergies: "라텍스／접착제／금속 알레르기", contrastAllergies: "조영제／소독제 반응",
+        reactionPlan: "중증 알레르기 응급대응 계획", familyConditions: "중요 가족 질환", geneticHistory: "유전성／선천성 질환",
+        earlyDeath: "조기 중증질환／원인 불명 조기 사망", familyNotes: "기타 가족 건강 메모", vaccines: "예방접종 기록", screenings: "중요 선별검사／검사",
+        lastPhysical: "최근 건강검진", dentalVision: "치과／시력／청력 기록", bloodTests: "중요 혈액검사／변화", menstrualRepro: "월경／생식 건강(선택)",
+        dietNeeds: "식이 제한／영양 요구", sleepActivity: "수면／활동／운동 주의사항", substanceExposure: "담배·술 또는 기타 물질 노출(의료용, 선택)",
+        culturalNeeds: "종교／문화적 돌봄 요구", travelNeeds: "여행 시 약 보관／시차 계획", sensoryNeeds: "감각적 배려／의사소통 선호", otherNotes: "의료진이 알아야 할 기타 사항",
+        primaryDoctor: "주치의／가정의", specialists: "전문의", preferredHospital: "주 이용／선호 병원", insurance: "보험사／보험 정보",
+        interpreter: "통역／언어 지원 연락처", guardianCare: "보호자／치료 결정 연락처", recordLocation: "전체 병력／검사보고서 위치",
+        insuranceCard: "건강／여행 보험 카드 위치", vaccineCard: "예방접종 증명서 위치", medicalLetters: "진단서／의사 소견서", verifiedBy: "최근 확인자／날짜",
+        reviewDate: "다음 검토일", languageNotes: "의학용어／번역 메모", verifyLabel: "사용 전 확인:",
+        verifiedNote: "확인된 이름 외의 개인 및 의료 정보는 미리 입력하지 않았습니다. 사용 전 보호자와 의사에게 모든 내용을 확인하세요.",
+        disclaimerTitle: "중요:", footerDisclaimer: "이 문서는 여행과 응급 의사소통을 위한 개인 의료 요약입니다. 병원의 공식 의무기록이 아니며 의료진의 판단을 대신하지 않습니다. 사용 전 본인, 부모／법정대리인, 의료전문가가 함께 확인해야 합니다.",
+        tapToEnter: "‘기록 편집’을 눌러 입력", datePlaceholder: "날짜: YYYY-MM-DD", listPlaceholder: "한 줄에 한 항목; 관계, 전화 또는 설명 추가 가능",
+        structuredPlaceholder: "한 줄에 한 항목: 이름｜진단일｜현재 상태｜메모", recordPlaceholder: "한 줄에 한 건: 날짜｜사건／처치｜병원 또는 국가｜결과",
+        medPlaceholder: "한 줄에 한 약: 약명｜용량｜경로／빈도｜이유｜시작 또는 중단일", reactionPlaceholder: "원인 물질｜반응｜심각도｜날짜｜처치",
+        familyPlaceholder: "한 줄에 한 건: 가족 관계｜질환｜진단 나이｜메모", vaccinePlaceholder: "백신｜차수｜날짜｜접종 장소", contactPlaceholder: "이름／기관｜전문 분야 또는 관계｜전화／이메일",
+        editHint: "항목을 눌러 내용을 입력하세요", editOn: "편집 모드를 켰습니다", savedToast: "이 기기에 기록을 저장했습니다", cancelledToast: "변경을 취소했습니다",
+        privacyOn: "개인정보 가림을 켰습니다", privacyOff: "정보를 표시했습니다", emergencyOn: "응급 요약을 표시 중입니다", emergencyOff: "전체 기록을 표시 중입니다",
+        exportedToast: "백업을 다운로드했습니다. 안전하게 보관하세요", importConfirm: "가져오면 이 기기에 저장된 현재 기록이 대체됩니다. 계속할까요?", importedToast: "백업을 가져왔습니다",
+        importError: "이 백업 파일을 읽을 수 없습니다", clearConfirm: "이 기기에 저장된 모든 의료정보를 삭제할까요? 되돌릴 수 없습니다."
+      },
+      vi: {
+        pageTitle: "Hộ chiếu y tế đa ngôn ngữ của Ingrid", appName: "Hộ chiếu y tế của Ingrid", privateLabel: "Riêng tư · Đa ngôn ngữ · Dùng ngoại tuyến", language: "Ngôn ngữ",
+        edit: "Chỉnh sửa hồ sơ", done: "Hoàn tất chỉnh sửa", save: "Lưu trên thiết bị này", cancel: "Hủy", privacy: "Bật che thông tin", reveal: "Hiện thông tin",
+        emergencyMode: "Chỉ hiện tóm tắt khẩn cấp", fullRecord: "Hiện toàn bộ hồ sơ", print: "In / PDF", export: "Xuất bản sao", import: "Nhập bản sao", clear: "Xóa dữ liệu",
+        portableRecord: "Hồ sơ sức khỏe mang theo", offlineReady: "Dùng được ngoại tuyến", deviceReady: "Thiết bị đã sẵn sàng", completion: "Mức hoàn thành", sections: "Các mục hồ sơ",
+        notSaved: "Chưa lưu", lastUpdated: "Cập nhật lần cuối", fields: "mục", fiveLanguages: "5 ngôn ngữ", deviceSaved: "Đã lưu trên thiết bị này",
+        localOnly: "Nội dung chỉ được lưu trên thiết bị này", localOnlyDesc: "Trang tĩnh này không tải dữ liệu bạn nhập lên mạng. Không lưu hồ sơ y tế thật trên thiết bị dùng chung và hãy bảo vệ tệp sao lưu đã xuất.",
+        emergencyTitle: "Tóm tắt khẩn cấp", emergencyBadge: "Hộ chiếu y tế khẩn cấp", emergencySubtitle: "Khi gặp khó khăn về ngôn ngữ hoặc giao tiếp, hãy cho nhân viên y tế xem thông tin thiết yếu dưới đây trước.",
+        quickPhrases: "Câu nhanh cho nhân viên y tế", phrase1: "Vui lòng kiểm tra thông tin dị ứng và thuốc của tôi trước.", phrase2: "Tôi có thể cần phiên dịch.",
+        phrase3: "Thông tin cha mẹ hoặc người liên hệ khẩn cấp của tôi ở phía trên.", phrase4: "Nếu khẩn cấp, vui lòng liên hệ dịch vụ cấp cứu y tế tại địa phương.",
+        identification: "Thông tin cá nhân", identificationDesc: "Chỉ ghi thông tin nhân viên y tế cần để nhận diện bạn và liên hệ cha mẹ. Số giấy tờ và địa chỉ đầy đủ là không bắt buộc.",
+        medicalHistory: "Tiền sử bệnh và nhập viện", medicalHistoryDesc: "Ghi bệnh hiện tại và trước đây, lần cấp cứu, nhập viện, kết quả xét nghiệm bất thường và yếu tố ảnh hưởng đến chăm sóc.",
+        surgeryHistory: "Tiền sử phẫu thuật và gây mê", surgeryHistoryDesc: "Bao gồm phẫu thuật, thủ thuật xâm lấn, nha khoa, phản ứng gây mê và biến chứng sau mổ.",
+        medicationHistory: "Tiền sử dùng thuốc", medicationHistoryDesc: "Nếu có thể, ghi tên hoạt chất và thương mại, liều, đường dùng, tần suất, lý do và ngày bắt đầu.",
+        allergiesHistory: "Dị ứng và phản ứng bất lợi", allergiesDesc: "Không chỉ ghi “dị ứng”; hãy thêm phản ứng, mức độ, thời điểm và cách xử trí đã nhận.",
+        familyHistory: "Tiền sử gia đình", familyDesc: "Ghi quan hệ, bệnh, tuổi lúc chẩn đoán và lưu ý quan trọng. Có thể để trống thông tin chưa biết.",
+        prevention: "Vắc-xin và chăm sóc dự phòng", preventionDesc: "Lưu ngày tiêm, khám gần nhất, sàng lọc quan trọng và hồ sơ răng hoặc mắt để dùng khi đi xa và khám thường kỳ.",
+        additional: "Thông tin sức khỏe khác", additionalDesc: "Bổ sung thông tin ảnh hưởng đến việc đi lại, ăn uống, giao tiếp, sức khỏe hằng ngày hoặc cách chăm sóc.",
+        careTeam: "Đội ngũ chăm sóc và bảo hiểm", careTeamDesc: "Liên hệ bác sĩ, bệnh viện, nhà thuốc, bảo hiểm và phiên dịch rất hữu ích khi đi xa hoặc chuyển khám.",
+        documents: "Tài liệu và kiểm tra", documentsDesc: "Ghi nơi lưu bản gốc, người đã xác minh và ngày cần xem lại tiếp theo.",
+        legalNameZh: "Tên bằng tiếng Trung", legalNameEn: "Tên bằng tiếng Anh", preferredName: "Tên muốn được gọi", dob: "Ngày sinh", sexGender: "Giới tính khi sinh / giới (không bắt buộc)",
+        nationalityResidence: "Quốc tịch / quốc gia cư trú", primaryLanguage: "Ngôn ngữ chính / cần phiên dịch", contactInfo: "Điện thoại / email cá nhân (không bắt buộc)",
+        guardian: "Cha mẹ / người giám hộ hợp pháp và liên hệ", address: "Địa chỉ nhà hoặc khách sạn (không bắt buộc; bảo vệ riêng tư)", emergencyContact: "Người liên hệ khẩn cấp",
+        bloodType: "Nhóm máu và Rh", allergiesCritical: "Dị ứng nghiêm trọng", diagnosesCritical: "Bệnh quan trọng", medsCritical: "Thuốc quan trọng đang dùng", instructionsCritical: "Hướng dẫn chăm sóc đặc biệt",
+        currentConditions: "Chẩn đoán hiện tại / bệnh mạn tính", pastIllnesses: "Bệnh sử trước đây", hospitalizations: "Lần nhập viện / cấp cứu", infectiousTravel: "Bệnh truyền nhiễm / nguy cơ do chuyến đi gần đây",
+        mentalHealth: "Sức khỏe tâm thần và hành vi (không bắt buộc)", disabilityCommunication: "Khuyết tật / nhu cầu giao tiếp / tiếp cận", implantsDevices: "Thiết bị cấy ghép / thiết bị y tế",
+        testsImaging: "Kết quả xét nghiệm / hình ảnh quan trọng", transfusions: "Tiền sử truyền máu / phản ứng", procedures: "Phẫu thuật hoặc thủ thuật, ngày, nơi và lý do",
+        anesthesia: "Phương pháp gây mê / phản ứng", complications: "Biến chứng / hồi phục", dental: "Nha khoa / chỉnh nha / thủ thuật khác",
+        currentMedList: "Thuốc kê đơn đang dùng", pastMedList: "Thuốc đã dùng / lý do ngừng", supplements: "Thuốc không kê đơn / thực phẩm bổ sung / thảo dược",
+        adherence: "Nhắc dùng thuốc / khó nuốt hoặc dùng thuốc", pharmacy: "Nhà thuốc thường dùng và liên hệ", drugAllergies: "Dị ứng thuốc", foodAllergies: "Dị ứng thực phẩm",
+        environmentalAllergies: "Dị ứng môi trường / động vật / phấn hoa", materialAllergies: "Dị ứng latex / băng dính / kim loại", contrastAllergies: "Phản ứng với thuốc cản quang / sát khuẩn",
+        reactionPlan: "Kế hoạch cấp cứu khi dị ứng nặng", familyConditions: "Bệnh quan trọng trong gia đình", geneticHistory: "Bệnh di truyền / bẩm sinh",
+        earlyDeath: "Bệnh nặng khởi phát sớm / tử vong sớm chưa rõ nguyên nhân", familyNotes: "Ghi chú sức khỏe gia đình khác", vaccines: "Lịch sử tiêm chủng", screenings: "Sàng lọc / xét nghiệm quan trọng",
+        lastPhysical: "Lần khám sức khỏe gần nhất", dentalVision: "Hồ sơ răng / thị lực / thính lực", bloodTests: "Xét nghiệm máu / xu hướng quan trọng", menstrualRepro: "Sức khỏe kinh nguyệt / sinh sản (không bắt buộc)",
+        dietNeeds: "Hạn chế ăn uống / nhu cầu dinh dưỡng", sleepActivity: "Lưu ý về ngủ / hoạt động / vận động", substanceExposure: "Phơi nhiễm thuốc lá, rượu hoặc chất khác (y tế, không bắt buộc)",
+        culturalNeeds: "Nhu cầu chăm sóc tôn giáo / văn hóa", travelNeeds: "Bảo quản thuốc / kế hoạch múi giờ khi đi xa", sensoryNeeds: "Nhu cầu cảm giác / cách giao tiếp ưa thích", otherNotes: "Điều khác nhân viên y tế cần biết",
+        primaryDoctor: "Bác sĩ chính / bác sĩ gia đình", specialists: "Bác sĩ chuyên khoa", preferredHospital: "Bệnh viện thường dùng / ưu tiên", insurance: "Công ty bảo hiểm / thông tin hợp đồng",
+        interpreter: "Liên hệ phiên dịch / hỗ trợ ngôn ngữ", guardianCare: "Cha mẹ / người quyết định chăm sóc", recordLocation: "Nơi lưu hồ sơ đầy đủ / báo cáo xét nghiệm",
+        insuranceCard: "Nơi lưu thẻ bảo hiểm y tế / du lịch", vaccineCard: "Nơi lưu chứng nhận tiêm chủng", medicalLetters: "Giấy chứng nhận / thư của bác sĩ", verifiedBy: "Người và ngày xác minh gần nhất",
+        reviewDate: "Ngày xem lại tiếp theo", languageNotes: "Thuật ngữ y khoa / ghi chú dịch", verifyLabel: "Xác minh trước khi dùng:",
+        verifiedNote: "Chỉ tên đã được xác nhận mới được điền sẵn. Hãy xác minh mọi thông tin cá nhân và y tế với cha mẹ hoặc người giám hộ và bác sĩ trước khi dùng.",
+        disclaimerTitle: "Quan trọng:", footerDisclaimer: "Đây là bản tóm tắt y tế cá nhân để đi xa và giao tiếp khẩn cấp. Đây không phải hồ sơ chính thức của bệnh viện và không thay thế đánh giá của bác sĩ. Người dùng, cha mẹ / người giám hộ hợp pháp và nhân viên y tế có chuyên môn cần cùng xác minh trước khi dùng.",
+        tapToEnter: "Chọn “Chỉnh sửa hồ sơ” để nhập", datePlaceholder: "Ngày: YYYY-MM-DD", listPlaceholder: "Mỗi dòng một mục; có thể thêm quan hệ, điện thoại hoặc ghi chú",
+        structuredPlaceholder: "Mỗi dòng: tên | ngày chẩn đoán | tình trạng hiện tại | ghi chú", recordPlaceholder: "Mỗi dòng: ngày | sự kiện / thủ thuật | bệnh viện hoặc quốc gia | kết quả",
+        medPlaceholder: "Mỗi dòng: thuốc | liều | đường dùng / tần suất | lý do | ngày bắt đầu hoặc ngừng", reactionPlaceholder: "Tác nhân | phản ứng | mức độ | ngày | xử trí",
+        familyPlaceholder: "Mỗi dòng: quan hệ | bệnh | tuổi lúc chẩn đoán | ghi chú", vaccinePlaceholder: "Vắc-xin | mũi số | ngày | nơi tiêm", contactPlaceholder: "Tên / cơ sở | chuyên khoa hoặc quan hệ | điện thoại / email",
+        editHint: "Chọn bất kỳ ô nào để nhập", editOn: "Đã bật chế độ chỉnh sửa", savedToast: "Đã lưu hồ sơ trên thiết bị này", cancelledToast: "Đã hủy thay đổi",
+        privacyOn: "Đã bật che thông tin", privacyOff: "Thông tin đang hiển thị", emergencyOn: "Đang hiện tóm tắt khẩn cấp", emergencyOff: "Đang hiện toàn bộ hồ sơ",
+        exportedToast: "Đã tải bản sao; hãy bảo quản an toàn", importConfirm: "Việc nhập sẽ thay thế hồ sơ đang lưu trên thiết bị này. Tiếp tục?", importedToast: "Đã nhập bản sao",
+        importError: "Không thể đọc tệp sao lưu này", clearConfirm: "Xóa toàn bộ thông tin y tế đã lưu trên thiết bị này? Không thể hoàn tác."
+      }
+    };
+
+    const STORAGE_KEY = "ingrid-medical-passport-v1";
+    const languageTags = { zh: "zh-TW", en: "en", ja: "ja-JP", ko: "ko-KR", vi: "vi-VN" };
+    const htmlLangs = { zh: "zh-Hant", en: "en", ja: "ja", ko: "ko", vi: "vi" };
+    let language = localStorage.getItem(STORAGE_KEY + "-language") || "zh";
+    let editMode = false;
+    let privateMode = false;
+    let emergencyMode = false;
+    let toastTimer;
+    let savedSnapshot = {};
+
+    const $ = (selector, root = document) => root.querySelector(selector);
+    const $$ = (selector, root = document) => Array.from(root.querySelectorAll(selector));
+    const t = (key) => (translations[language] && translations[language][key]) || (translations.en && translations.en[key]) || key;
+
+    function getAllFields() {
+      const fields = {};
+      $$('[data-field]').forEach((element) => {
+        const key = element.dataset.field;
+        const value = (element.offsetParent === null ? element.textContent : element.innerText).trim();
+        if (!(key in fields) || fields[key] === "") fields[key] = value;
+      });
+      return fields;
+    }
+
+    function setField(key, value, source) {
+      $$(`[data-field="${CSS.escape(key)}"]`).forEach((element) => {
+        if (element !== source) element.textContent = value || "";
+      });
+    }
+
+    function applyFields(fields) {
+      Object.entries(fields || {}).forEach(([key, value]) => setField(key, String(value ?? "")));
+      updateAvatar();
+      updateCompletion();
+    }
+
+    function loadRecord() {
+      try {
+        const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "null");
+        if (saved && saved.fields) {
+          applyFields(saved.fields);
+          updateDates(saved.updatedAt);
+        } else {
+          updateDates(null);
+        }
+      } catch (_) {
+        updateDates(null);
+      }
+      savedSnapshot = getAllFields();
+    }
+
+    function saveRecord(showMessage = true) {
+      const payload = { version: 1, updatedAt: new Date().toISOString(), fields: getAllFields() };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
+      savedSnapshot = { ...payload.fields };
+      updateDates(payload.updatedAt);
+      updateCompletion();
+      if (showMessage) showToast(t("savedToast"));
+    }
+
+    function setLanguage(nextLanguage) {
+      language = translations[nextLanguage] ? nextLanguage : "zh";
+      localStorage.setItem(STORAGE_KEY + "-language", language);
+      document.documentElement.lang = htmlLangs[language];
+      document.title = t("pageTitle");
+      $("#languageSelect").value = language;
+      $$('[data-i18n]').forEach((element) => { element.textContent = t(element.dataset.i18n); });
+      $$('[data-placeholder-key]').forEach((element) => { element.dataset.placeholder = t(element.dataset.placeholderKey); });
+      $("#privacyButton").title = privateMode ? t("reveal") : t("privacy");
+      $("#privacyButton").setAttribute("aria-label", $("#privacyButton").title);
+      $("#emergencyButton").title = emergencyMode ? t("fullRecord") : t("emergencyMode");
+      $("#emergencyButton").setAttribute("aria-label", $("#emergencyButton").title);
+      updateConnection();
+      try {
+        const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "null");
+        updateDates(saved && saved.updatedAt);
+      } catch (_) {
+        updateDates(null);
+      }
+      updateCompletion();
+      updateEditButton();
+    }
+
+    function updateDates(iso) {
+      if (!iso) {
+        $("#lastUpdatedText").textContent = t("notSaved");
+        $("#heroUpdated").textContent = "—";
+        return;
+      }
+      try {
+        const formatted = new Intl.DateTimeFormat(languageTags[language], { year: "numeric", month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }).format(new Date(iso));
+        $("#lastUpdatedText").textContent = formatted;
+        $("#heroUpdated").textContent = formatted;
+      } catch (_) {
+        $("#lastUpdatedText").textContent = iso.slice(0, 10);
+        $("#heroUpdated").textContent = iso.slice(0, 10);
+      }
+    }
+
+    function updateCompletion() {
+      const fields = getAllFields();
+      const entries = Object.entries(fields).filter(([key]) => !["preferredName", "legalNameZh", "legalNameEn", "primaryLanguage"].includes(key));
+      const filled = entries.filter(([, value]) => value.trim()).length;
+      const total = entries.length;
+      const percent = total ? Math.round((filled / total) * 100) : 0;
+      $("#completionPercent").textContent = percent + "%";
+      $("#completionCount").textContent = `${filled} / ${total} ${t("fields")}`;
+      $("#progressFill").style.width = percent + "%";
+    }
+
+    function updateAvatar() {
+      const name = ($('[data-field="legalNameZh"]') || {}).innerText || "惠";
+      $("#avatar").textContent = name.trim().slice(-1) || "惠";
+    }
+
+    function updateConnection() {
+      $("#connectionText").textContent = navigator.onLine ? t("deviceReady") : t("offlineReady");
+    }
+
+    function setEditing(enabled) {
+      editMode = enabled;
+      document.body.classList.toggle("editing", editMode);
+      $$('[data-field]').forEach((element) => {
+        element.contentEditable = editMode ? "true" : "false";
+        element.spellcheck = editMode;
+      });
+      updateEditButton();
+      if (editMode) {
+        savedSnapshot = getAllFields();
+        showToast(t("editOn"));
+      }
+    }
+
+    function updateEditButton() {
+      const label = $("#editButton [data-i18n]");
+      if (label) label.textContent = editMode ? t("done") : t("edit");
+    }
+
+    function setPrivacy(enabled) {
+      privateMode = enabled;
+      document.body.classList.toggle("private-mode", enabled);
+      $("#privacyButton").textContent = enabled ? "◎" : "◉";
+      $("#privacyButton").title = enabled ? t("reveal") : t("privacy");
+      $("#privacyButton").setAttribute("aria-label", $("#privacyButton").title);
+      showToast(enabled ? t("privacyOn") : t("privacyOff"));
+    }
+
+    function setEmergency(enabled) {
+      emergencyMode = enabled;
+      document.body.classList.toggle("emergency-mode", enabled);
+      $("#emergencyButton").textContent = enabled ? "▤" : "✚";
+      $("#emergencyButton").title = enabled ? t("fullRecord") : t("emergencyMode");
+      $("#emergencyButton").setAttribute("aria-label", $("#emergencyButton").title);
+      if (enabled) window.scrollTo({ top: 0, behavior: "smooth" });
+      showToast(enabled ? t("emergencyOn") : t("emergencyOff"));
+    }
+
+    function showToast(message) {
+      const toast = $("#toast");
+      toast.textContent = message;
+      toast.classList.add("show");
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => toast.classList.remove("show"), 2800);
+    }
+
+    function exportRecord() {
+      const stored = JSON.parse(localStorage.getItem(STORAGE_KEY) || "null");
+      const payload = stored || { version: 1, updatedAt: new Date().toISOString(), fields: getAllFields() };
+      payload.format = "Ingrid Multilingual Medical Passport";
+      payload.exportedAt = new Date().toISOString();
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = `Ingrid_Medical_Passport_${new Date().toISOString().slice(0, 10)}.json`;
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+      URL.revokeObjectURL(url);
+      showToast(t("exportedToast"));
+    }
+
+    async function importRecord(file) {
+      try {
+        const data = JSON.parse(await file.text());
+        if (!data || typeof data.fields !== "object") throw new Error("Invalid file");
+        if (!window.confirm(t("importConfirm"))) return;
+        const payload = { version: 1, updatedAt: new Date().toISOString(), fields: data.fields };
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
+        applyFields(payload.fields);
+        updateDates(payload.updatedAt);
+        savedSnapshot = getAllFields();
+        showToast(t("importedToast"));
+      } catch (_) {
+        showToast(t("importError"));
+      }
+    }
+
+    function clearRecord() {
+      if (!window.confirm(t("clearConfirm"))) return;
+      localStorage.removeItem(STORAGE_KEY);
+      window.location.reload();
+    }
+
+    $$('[data-field]').forEach((element) => {
+      element.addEventListener("input", () => {
+        setField(element.dataset.field, element.innerText, element);
+        updateAvatar();
+        updateCompletion();
+      });
+      element.addEventListener("keydown", (event) => {
+        if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === "s") {
+          event.preventDefault(); saveRecord(); setEditing(false);
+        }
+      });
+    });
+
+    $("#languageSelect").addEventListener("change", (event) => setLanguage(event.target.value));
+    $("#editButton").addEventListener("click", () => editMode ? (saveRecord(), setEditing(false)) : setEditing(true));
+    $("#saveButton").addEventListener("click", () => { saveRecord(); setEditing(false); });
+    $("#cancelEditButton").addEventListener("click", () => { applyFields(savedSnapshot); setEditing(false); showToast(t("cancelledToast")); });
+    $("#privacyButton").addEventListener("click", () => setPrivacy(!privateMode));
+    $("#emergencyButton").addEventListener("click", () => setEmergency(!emergencyMode));
+    $("#printButton").addEventListener("click", () => window.print());
+    $("#exportButton").addEventListener("click", exportRecord);
+    $("#importButton").addEventListener("click", () => $("#importFile").click());
+    $("#importFile").addEventListener("change", (event) => { if (event.target.files[0]) importRecord(event.target.files[0]); event.target.value = ""; });
+    $("#clearButton").addEventListener("click", clearRecord);
+    window.addEventListener("online", updateConnection);
+    window.addEventListener("offline", updateConnection);
+
+    const observer = new IntersectionObserver((entries) => {
+      const visible = entries.filter((entry) => entry.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+      if (!visible) return;
+      $$('.nav-link').forEach((link) => link.classList.toggle("active", link.getAttribute("href") === `#${visible.target.id}`));
+    }, { rootMargin: "-18% 0px -68% 0px", threshold: [0, .2, .5] });
+    $$('.record-section').forEach((section) => observer.observe(section));
+
+    setLanguage(language);
+    loadRecord();
+    updateAvatar();
+    updateConnection();
+  </script>
+</body>
+</html>
